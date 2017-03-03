@@ -8,6 +8,7 @@
 #include <Arduino.h>
 #include <ESP8266WiFi.h>
 
+// -- Passwords are invalid (2017-03-03)
 const String ssid = "MikeMitterer-LS";
 const String password = "q#83uouUhqCuhz";
 
